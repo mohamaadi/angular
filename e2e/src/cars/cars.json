@@ -1,0 +1,25 @@
+[
+    {
+        "cardId":1,
+        "carname":"mazda",
+        "carcode":"crd-123",
+        "releasedate":"march 19,2020",
+        "discription":"amazing ",
+        "price":2000,
+        "starrating":4.2,
+        "imageUrl":"assets/image/Mazda.png"
+  
+      },
+      {
+        "cardId":2,
+        "carname":"benze",
+        "carcode":"crd-111",
+        "releasedate":"march 19,2020",
+        "discription":"amazing ",
+        "price":5000,
+        "starrating":3.2,
+        "imageUrl":"assets/image/benze.png"
+  
+      }
+
+]
